@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PersonelListesi>
+    <Personel>
+        <ID>1</ID>
+        <Ad>Ahmet</Ad>
+        <Soyad>Yılmaz</Soyad>
+        <Departman>IT</Departman>
+        <Pozisyon>Yazılım Geliştirici</Pozisyon>
+        <Email>ahmet.yilmaz@example.com</Email>
+        <Telefon>+90 555 123 4567</Telefon>
+    </Personel>
+    <Personel>
+        <ID>2</ID>
+        <Ad>Mehmet</Ad>
+        <Soyad>Demir</Soyad>
+        <Departman>Finans</Departman>
+        <Pozisyon>Muhasebe Müdürü</Pozisyon>
+        <Email>mehmet.demir@example.com</Email>
+        <Telefon>+90 555 234 5678</Telefon>
+    </Personel>
+    <Personel>
+        <ID>3</ID>
+        <Ad>Ayşe</Ad>
+        <Soyad>Kara</Soyad>
+        <Departman>İnsan Kaynakları</Departman>
+        <Pozisyon>IK Uzmanı</Pozisyon>
+        <Email>ayse.kara@example.com</Email>
+        <Telefon>+90 555 345 6789</Telefon>
+    </Personel>
+</PersonelListesi>

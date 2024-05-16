@@ -1,0 +1,31 @@
+{
+  "PersonelListesi": [
+    {
+      "ID": 1,
+      "Ad": "Ahmet",
+      "Soyad": "Yılmaz",
+      "Departman": "IT",
+      "Pozisyon": "Yazılım Geliştirici",
+      "Email": "ahmet.yilmaz@example.com",
+      "Telefon": "+90 555 123 4567"
+    },
+    {
+      "ID": 2,
+      "Ad": "Mehmet",
+      "Soyad": "Demir",
+      "Departman": "Finans",
+      "Pozisyon": "Muhasebe Müdürü",
+      "Email": "mehmet.demir@example.com",
+      "Telefon": "+90 555 234 5678"
+    },
+    {
+      "ID": 3,
+      "Ad": "Ayşe",
+      "Soyad": "Kara",
+      "Departman": "İnsan Kaynakları",
+      "Pozisyon": "IK Uzmanı",
+      "Email": "ayse.kara@example.com",
+      "Telefon": "+90 555 345 6789"
+    }
+  ]
+}
